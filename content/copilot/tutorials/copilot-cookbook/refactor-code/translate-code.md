@@ -1,4 +1,4 @@
----
+content/copilot/tutorials/copilot-cookbook/refactor-code/translate-code.md---
 title: Translating code to a different programming language
 shortTitle: Translate code
 intro: '{% data variables.copilot.copilot_chat_short %} can help you rewrite code to perform the same operations but in a different programming language.'
